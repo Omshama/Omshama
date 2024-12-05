@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Om Shama 
 
-<img src = 'readme_banner2.png'/>
+<img src = 'readme_banner.png'/>
 
 - All about me is at <a href = >My Website</a>
 - 🔭 I’m currently working in a Start Up on small scale projects.
