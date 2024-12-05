@@ -15,9 +15,9 @@
 ### Check out some of my featured work:
 - 🔗 [Leetcode](https://github.com/Omshama/Leetcode-): 
 ## LeetCode Solutions Repository
-# This repository contains my solutions to various LeetCode problems, organized by difficulty and category. 
-# It showcases my problem-solving approach and programming skills while tackling challenges across data structures and    algorithms. 
-# Perfect for anyone seeking inspiration or reviewing approaches to similar problems.
+ This repository contains my solutions to various LeetCode problems, organized by difficulty and category. 
+ It showcases my problem-solving approach and programming skills while tackling challenges across data structures and    algorithms. 
+ Perfect for anyone seeking inspiration or reviewing approaches to similar problems.
   
 
 # 🚀 Skills & Tools
