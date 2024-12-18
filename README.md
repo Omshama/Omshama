@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **DEV projects.**
 - 🤝 I’m looking for help with **Some Good Opportunities**
 - 📫 How to reach me **omshama.skncoe.comp@gmail.com**
-- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/12P5gnXlOxFx05f-JIXuYZfIu46fbTyRa/view?usp=drive_link)
+- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/1sVHqfN2jG3ONM5CnoQd-lvIuBm4Qe98R/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
